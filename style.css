@@ -1,5 +1,11 @@
-body{
+body {
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+#hero {
+  width: 592px;
+  margin: auto;
 }
 
 h1 {
@@ -13,11 +19,11 @@ h1 span {
   font-weight: bold;
 }
 
-
-span, a {
-  color: #FF9900;
+span,
+a {
+  color: #ff9900;
 }
 
 p {
-  color: #7D7987;
+  color: #7d7987;
 }
